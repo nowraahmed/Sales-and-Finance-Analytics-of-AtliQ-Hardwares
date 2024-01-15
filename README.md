@@ -1,6 +1,8 @@
 # Sales-and-Finance-Analytics-of-AtliQ-Hardwares
 Comprehensive analysis of sales and financial data of AtliQ hardwares, a company which supplies computer hardware and peripherals to clients across the world
-Problem Statement:\n
+
+
+Problem Statement:
 AtliQ Hardware, company that sells computer peripherals is embarking on a data-driven journey by integrating sales and finance analytics. Recognizing the need for strategic insights, AtliQ aims to optimize sales strategies, identify growth opportunities, and enhance financial decision-making.
 
 Project Objective:
